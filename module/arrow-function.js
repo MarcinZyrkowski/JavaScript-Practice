@@ -1,6 +1,6 @@
 const functionName = (parameters) => {
-    // function body
+  // function body
 };
 
 const add = (a, b) => a + b;
-console.log(add(5,4));
+console.log(add(5, 4));

@@ -7,13 +7,13 @@
 
 // syntax
 function name(parameter1, parameter2, parameter3) {
-    // code to be executed
-  }
+  // code to be executed
+}
 
 // example
 function toCelsius(fahrenheit) {
-    return (5 / 9) * (fahrenheit - 32);
+  return (5 / 9) * (fahrenheit - 32);
 }
-  
-let value = toCelsius(70); 
+
+let value = toCelsius(70);
 console.log(value);
